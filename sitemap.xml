@@ -6,9 +6,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://test2.com/images/coffee.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://test2.com/images/donuts%20copy.jpg</image:loc>
     </image:image>
     <image:image>
@@ -42,10 +39,10 @@
       <image:loc>http://test2.com/images/logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test2.com/images/brew1.jpg</image:loc>
+      <image:loc>http://test2.com/images/bag.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test2.com/images/bag.jpg</image:loc>
+      <image:loc>http://test2.com/images/coffee%202.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -107,7 +104,7 @@
   </url>
   <url>
     <loc>http://test2.com/temp.html</loc>
-    <lastmod>2017-07-07</lastmod>
+    <lastmod>2017-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
