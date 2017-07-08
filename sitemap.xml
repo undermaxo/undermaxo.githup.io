@@ -90,15 +90,6 @@
       <image:loc>http://test2.com/images/sandwiches.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test2.com/images/cofee.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/donuts.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/smothies_00.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://test2.com/images/logo_00.png</image:loc>
     </image:image>
   </url>
