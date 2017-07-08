@@ -1,20 +1,20 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test2.com" resolutions="1x" timestamp="1499501422561">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test2.com" resolutions="1x" timestamp="1499502238235">
   <folder name="css">
     <file name="site_global.css" crc="4049239604"/>
-    <file name="index.css" crc="3983820108" ref="index"/>
-    <file name="nomq_index.css" crc="168023543" ref="index"/>
+    <file name="index.css" crc="70963127" ref="index"/>
+    <file name="nomq_index.css" crc="4006014934" ref="index"/>
     <file name="temp.css" crc="37262538" ref="temp"/>
-    <file name="location.css" crc="355484780" ref="location"/>
+    <file name="location.css" crc="384874266" ref="location"/>
     <file name="contacts.css" crc="418634189" ref="contacts"/>
-    <file name="careers.css" crc="304294618" ref="careers"/>
-    <file name="donuts.css" crc="3877893685" ref="donuts"/>
+    <file name="careers.css" crc="4181693259" ref="careers"/>
+    <file name="donuts.css" crc="430695641" ref="donuts"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:donuts:temp:location:contacts:careers"/>
     <file name="museutils.js" crc="46400467" ref="index:donuts:temp:location:contacts:careers"/>
     <file name="whatinput.js" crc="86476730" ref="index:donuts:temp:location:contacts:careers"/>
     <file name="museconfig.js" crc="436936948" ref="index:donuts:temp:location:contacts:careers"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index:careers"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index"/>
     <file name="jquery.musemenu.js" crc="3936200140" ref="index:donuts:temp:location:contacts:careers"/>
     <file name="webpro.js" crc="4152390327" ref="index:donuts:location:contacts"/>
     <file name="musewpslideshow.js" crc="380562115" ref="index"/>
@@ -32,8 +32,8 @@
   </folder>
   <folder name="images">
     <file name="u8377-u9469-fr.png" crc="449166859" ref="index"/>
-    <file name="cup-coffee-png-u3158-u3158-u3158_00-u9476-fr.png" crc="252583526" ref="index:careers"/>
-    <file name="croissant_danish_pastry_pastries-u9483-fr.jpg" crc="474995636" ref="index:careers"/>
+    <file name="cup-coffee-png-u3158-u3158-u3158_00-u9476-fr.png" crc="252583526" ref="index"/>
+    <file name="croissant_danish_pastry_pastries-u9483-fr.jpg" crc="474995636" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="donuts copy.jpg" crc="199876639" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -64,30 +64,30 @@
     <file name="001-instagram-social-network-logo-of-photo-camera.png" crc="338094700" seo="true" ref="index:donuts:location:contacts">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="contacts" alt=""/>
       <caption webpage="donuts" alt=""/>
       <caption webpage="location" alt=""/>
+      <caption webpage="contacts" alt=""/>
     </file>
     <file name="007-facebook-logo-in-circular-button-outlined-social-symbol.png" crc="4157549344" seo="true" ref="index:donuts:location:contacts">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="contacts" alt=""/>
       <caption webpage="donuts" alt=""/>
       <caption webpage="location" alt=""/>
+      <caption webpage="contacts" alt=""/>
     </file>
     <file name="009-twitter-circular-button.png" crc="369511241" seo="true" ref="index:donuts:location:contacts">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="contacts" alt=""/>
       <caption webpage="donuts" alt=""/>
       <caption webpage="location" alt=""/>
+      <caption webpage="contacts" alt=""/>
     </file>
     <file name="002-youtube-logo.png" crc="3899220818" seo="true" ref="index:donuts:location:contacts">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="contacts" alt=""/>
       <caption webpage="donuts" alt=""/>
       <caption webpage="location" alt=""/>
+      <caption webpage="contacts" alt=""/>
     </file>
     <file name="logo.png" crc="173139532" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -177,10 +177,10 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4193876961" seo="true" mt="1499501413323" redirect="true"/>
-  <file name="donuts.html" crc="86072111" seo="true" mt="1499501383801" redirect="true"/>
+  <file name="index.html" crc="76370146" seo="true" mt="1499502225260" redirect="true"/>
+  <file name="donuts.html" crc="4161587320" seo="true" mt="1499501762617" redirect="true"/>
   <file name="temp.html" crc="3908583438" seo="true" mt="1499500023833" redirect="true"/>
-  <file name="location.html" crc="3761871240" seo="true" mt="1499499994301" redirect="true"/>
+  <file name="location.html" crc="353635885" seo="true" mt="1499502166360" redirect="true"/>
   <file name="contacts.html" crc="4101625737" seo="true" mt="1499500023860" redirect="true"/>
-  <file name="careers.html" crc="77494128" seo="true" mt="1499500023850" redirect="true"/>
+  <file name="careers.html" crc="15065463" seo="true" mt="1499501804603" redirect="true"/>
 </manifest>
