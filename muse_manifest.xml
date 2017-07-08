@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test2.com" resolutions="1x" timestamp="1499502238235">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test2.com" resolutions="1x" timestamp="1499502588312">
   <folder name="css">
     <file name="site_global.css" crc="4049239604"/>
-    <file name="index.css" crc="70963127" ref="index"/>
-    <file name="nomq_index.css" crc="4006014934" ref="index"/>
+    <file name="index.css" crc="4140881503" ref="index"/>
+    <file name="nomq_index.css" crc="3808180633" ref="index"/>
     <file name="temp.css" crc="37262538" ref="temp"/>
     <file name="location.css" crc="384874266" ref="location"/>
-    <file name="contacts.css" crc="418634189" ref="contacts"/>
+    <file name="contacts.css" crc="4188382471" ref="contacts"/>
     <file name="careers.css" crc="4181693259" ref="careers"/>
     <file name="donuts.css" crc="430695641" ref="donuts"/>
   </folder>
@@ -64,29 +64,29 @@
     <file name="001-instagram-social-network-logo-of-photo-camera.png" crc="338094700" seo="true" ref="index:donuts:location:contacts">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="donuts" alt=""/>
       <caption webpage="location" alt=""/>
+      <caption webpage="donuts" alt=""/>
       <caption webpage="contacts" alt=""/>
     </file>
     <file name="007-facebook-logo-in-circular-button-outlined-social-symbol.png" crc="4157549344" seo="true" ref="index:donuts:location:contacts">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="donuts" alt=""/>
       <caption webpage="location" alt=""/>
+      <caption webpage="donuts" alt=""/>
       <caption webpage="contacts" alt=""/>
     </file>
     <file name="009-twitter-circular-button.png" crc="369511241" seo="true" ref="index:donuts:location:contacts">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="donuts" alt=""/>
       <caption webpage="location" alt=""/>
+      <caption webpage="donuts" alt=""/>
       <caption webpage="contacts" alt=""/>
     </file>
     <file name="002-youtube-logo.png" crc="3899220818" seo="true" ref="index:donuts:location:contacts">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="donuts" alt=""/>
       <caption webpage="location" alt=""/>
+      <caption webpage="donuts" alt=""/>
       <caption webpage="contacts" alt=""/>
     </file>
     <file name="logo.png" crc="173139532" seo="true" ref="index">
@@ -174,13 +174,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="coffee 2-crop-u17206.jpg" crc="4208512408" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="76370146" seo="true" mt="1499502225260" redirect="true"/>
+  <file name="index.html" crc="308615046" seo="true" mt="1499502580014" redirect="true"/>
   <file name="donuts.html" crc="4161587320" seo="true" mt="1499501762617" redirect="true"/>
   <file name="temp.html" crc="3908583438" seo="true" mt="1499500023833" redirect="true"/>
   <file name="location.html" crc="353635885" seo="true" mt="1499502166360" redirect="true"/>
-  <file name="contacts.html" crc="4101625737" seo="true" mt="1499500023860" redirect="true"/>
+  <file name="contacts.html" crc="384251020" seo="true" mt="1499502495659" redirect="true"/>
   <file name="careers.html" crc="15065463" seo="true" mt="1499501804603" redirect="true"/>
 </manifest>
