@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test2.com" resolutions="1x" timestamp="1499502843838">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test2.com" resolutions="1x" timestamp="1499504439042">
   <folder name="css">
     <file name="site_global.css" crc="4049239604"/>
-    <file name="index.css" crc="3998790828" ref="index"/>
-    <file name="nomq_index.css" crc="467601342" ref="index"/>
+    <file name="index.css" crc="482695991" ref="index"/>
+    <file name="nomq_index.css" crc="461012986" ref="index"/>
     <file name="temp.css" crc="37262538" ref="temp"/>
     <file name="location.css" crc="384874266" ref="location"/>
     <file name="contacts.css" crc="4188382471" ref="contacts"/>
@@ -31,7 +31,6 @@
     <file name="form-u16540.php" crc="104188375" ref="contacts"/>
   </folder>
   <folder name="images">
-    <file name="u8377-u9469-fr.png" crc="449166859" ref="index"/>
     <file name="cup-coffee-png-u3158-u3158-u3158_00-u9476-fr.png" crc="252583526" ref="index"/>
     <file name="croissant_danish_pastry_pastries-u9483-fr.jpg" crc="474995636" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
@@ -64,56 +63,58 @@
     <file name="001-instagram-social-network-logo-of-photo-camera.png" crc="338094700" seo="true" ref="index:donuts:location:contacts">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="location" alt=""/>
       <caption webpage="donuts" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="contacts" alt=""/>
     </file>
     <file name="007-facebook-logo-in-circular-button-outlined-social-symbol.png" crc="4157549344" seo="true" ref="index:donuts:location:contacts">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="location" alt=""/>
       <caption webpage="donuts" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="contacts" alt=""/>
     </file>
     <file name="009-twitter-circular-button.png" crc="369511241" seo="true" ref="index:donuts:location:contacts">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="location" alt=""/>
       <caption webpage="donuts" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="contacts" alt=""/>
     </file>
     <file name="002-youtube-logo.png" crc="3899220818" seo="true" ref="index:donuts:location:contacts">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="location" alt=""/>
       <caption webpage="donuts" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="contacts" alt=""/>
     </file>
     <file name="logo.png" crc="173139532" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="cold-coffee-u31562-u3156-u31562_00-u3156.png" crc="4145967485" ref="index"/>
     <file name="frapetchino-u31532-u3153-u31532_00-u3153.png" crc="3833720377" ref="index"/>
-    <file name="u8377.png" crc="3999166585" ref="index"/>
+    <file name="u8377.png" crc="449166859" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="u8377-r.png" crc="526378364" ref="index"/>
     <file name="u8387.png" crc="148732249" ref="index"/>
     <file name="u8387-r.png" crc="474398070" ref="index"/>
     <file name="u15432.png" crc="148732249" ref="index"/>
     <file name="u15432-r.png" crc="474398070" ref="index"/>
-    <file name="u83772.png" crc="4253828792" ref="index">
+    <file name="u83772.png" crc="3999166585" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cup-coffee-png-u3158-u3158-u3158_00-u9476-fr2.png" crc="4229593943" ref="index"/>
-    <file name="croissant_danish_pastry_pastries-u9483-fr2.jpg" crc="76834707" ref="index"/>
     <file name="frapetchino-u31532-u3153-u31532_00-u31532.png" crc="3833720377" ref="index"/>
-    <file name="u83773.png" crc="4253828792" ref="index"/>
-    <file name="u8377-r2.png" crc="460996734" ref="index"/>
-    <file name="u83872.png" crc="4253828792" ref="index"/>
-    <file name="u8387-r2.png" crc="460996734" ref="index"/>
-    <file name="u154322.png" crc="4253828792" ref="index"/>
-    <file name="u15432-r2.png" crc="460996734" ref="index"/>
+    <file name="u83773.png" crc="3999166585" ref="index"/>
+    <file name="u8377-r2.png" crc="526378364" ref="index"/>
+    <file name="u83872.png" crc="148732249" ref="index"/>
+    <file name="u8387-r2.png" crc="474398070" ref="index"/>
+    <file name="u154322.png" crc="148732249" ref="index"/>
+    <file name="u15432-r2.png" crc="474398070" ref="index"/>
     <file name="cup-coffee-png-u3158-u3158-u3158_00-u31582.png" crc="3761769143" ref="index"/>
     <file name="cold-coffee-u31562-u3156-u31562_00-u31562.png" crc="4145967485" ref="index"/>
     <file name="animated-banner4_00.gif" crc="373868142" seo="true" ref="donuts">
@@ -170,19 +171,17 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="coffee 2.jpg" crc="4153092940" seo="true" ref="index">
+    <file name="coffee 2.jpg" crc="335972479" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="coffee 2-crop-u17206.jpg" crc="4208512408" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4201348597" seo="true" mt="1499502832507" redirect="true"/>
-  <file name="donuts.html" crc="4161587320" seo="true" mt="1499501762617" redirect="true"/>
+  <file name="index.html" crc="3976404669" seo="true" mt="1499504420816" redirect="true"/>
+  <file name="donuts.html" crc="4161587320" seo="true" mt="1499504420805" redirect="true"/>
   <file name="temp.html" crc="3908583438" seo="true" mt="1499500023833" redirect="true"/>
-  <file name="location.html" crc="353635885" seo="true" mt="1499502166360" redirect="true"/>
-  <file name="contacts.html" crc="384251020" seo="true" mt="1499502495659" redirect="true"/>
-  <file name="careers.html" crc="15065463" seo="true" mt="1499501804603" redirect="true"/>
+  <file name="location.html" crc="353635885" seo="true" mt="1499504420822" redirect="true"/>
+  <file name="contacts.html" crc="384251020" seo="true" mt="1499504420829" redirect="true"/>
+  <file name="careers.html" crc="15065463" seo="true" mt="1499504420811" redirect="true"/>
 </manifest>
