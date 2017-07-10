@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://test2.com/index.html</loc>
-    <lastmod>2017-07-09</lastmod>
+    <lastmod>2017-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://test2.com/images/coffeee.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/logo.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://test2.com/images/bag.jpg</image:loc>
     </image:image>
@@ -30,9 +36,6 @@
       <image:loc>http://test2.com/images/d5.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test2.com/images/logo.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://test2.com/images/001-instagram-social-network-logo-of-photo-camera.png</image:loc>
     </image:image>
     <image:image>
@@ -45,15 +48,69 @@
       <image:loc>http://test2.com/images/002-youtube-logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test2.com/images/smothies.png</image:loc>
+      <image:loc>http://test2.com/images/holes.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test2.com/images/coffeee.jpg</image:loc>
+      <image:loc>http://test2.com/images/bagels.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/mufins.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/dannish.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/rolls.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/sandwitches.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/logo-crop-u15302.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/logo-crop-u153022.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/donuts%20copy2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/d22.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/d32.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/d42.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/logo-crop-u153023.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/logo2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/bag2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/d23.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/d33.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/d43.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/img_1155.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/d52.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://test2.com/donuts.html</loc>
-    <lastmod>2017-07-09</lastmod>
+    <lastmod>2017-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -75,9 +132,6 @@
       <image:loc>http://test2.com/images/single%20domnuts%202.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test2.com/images/holes.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://test2.com/images/single%20domnuts%202%20sticks.jpg</image:loc>
     </image:image>
     <image:image>
@@ -90,24 +144,45 @@
       <image:loc>http://test2.com/images/dannish.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test2.com/images/rolls.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://test2.com/images/sandwitches.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test2.com/images/logo_00.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/holes2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/rolls2.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://test2.com/temp.html</loc>
-    <lastmod>2017-07-09</lastmod>
+    <lastmod>2017-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://test2.com/images/coffeee.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/001-instagram-social-network-logo-of-photo-camera.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/007-facebook-logo-in-circular-button-outlined-social-symbol.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/009-twitter-circular-button.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/002-youtube-logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/logo2.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://test2.com/location.html</loc>
-    <lastmod>2017-07-09</lastmod>
+    <lastmod>2017-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -123,15 +198,15 @@
       <image:loc>http://test2.com/images/002-youtube-logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test2.com/images/1498787130_logo_social_media_location.png</image:loc>
+      <image:loc>http://test2.com/images/logo2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test2.com/images/logo2.jpg</image:loc>
+      <image:loc>http://test2.com/images/1498787130_logo_social_media_location.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://test2.com/contacts.html</loc>
-    <lastmod>2017-07-09</lastmod>
+    <lastmod>2017-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -149,7 +224,7 @@
   </url>
   <url>
     <loc>http://test2.com/careers.html</loc>
-    <lastmod>2017-07-09</lastmod>
+    <lastmod>2017-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
