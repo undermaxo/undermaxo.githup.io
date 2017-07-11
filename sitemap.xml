@@ -36,9 +36,6 @@
       <image:loc>http://test2.com/images/donuts%20copy.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test2.com/images/glass.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://test2.com/images/don%20700.jpg</image:loc>
     </image:image>
     <image:image>
@@ -58,12 +55,6 @@
     </image:image>
     <image:image>
       <image:loc>http://test2.com/images/hot%20coffee%20copy-crop-u512402.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/hot%20coffee%20copy.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/smothies%202.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test2.com/images/img_3379.jpg</image:loc>
@@ -94,6 +85,24 @@
     </image:image>
     <image:image>
       <image:loc>http://test2.com/images/smothies%202-crop-u529754.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/hot%20coffee%20copy210x311.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/smothies%202156x232.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/hot%20coffee%20copy210x312.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/img_3379130x195.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/img_3479132x196.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/smothies%202157x232.png</image:loc>
     </image:image>
   </url>
   <url>
