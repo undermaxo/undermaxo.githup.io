@@ -77,6 +77,24 @@
     <image:image>
       <image:loc>http://test2.com/images/glass166x246.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/glass-crop-u525102.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/glass-crop-u525103.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/hot%20coffee%20copy-crop-u512403.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/smothies%202-crop-u529753.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/hot%20coffee%20copy-crop-u512404.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/smothies%202-crop-u529754.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://test2.com/location.html</loc>
@@ -139,9 +157,6 @@
     </image:image>
     <image:image>
       <image:loc>http://test2.com/images/pasted%20image%201280x800-crop-u16645.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/pasted%20image%201280x800-crop-u166452.jpg</image:loc>
     </image:image>
   </url>
   <url>
