@@ -1,14 +1,14 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test2.com" resolutions="1x" timestamp="1499789959372">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test2.com" resolutions="1x" timestamp="1499850140468">
   <folder name="css">
     <file name="site_global.css" crc="15382726"/>
-    <file name="location.css" crc="4128923381" ref="location"/>
-    <file name="contacts.css" crc="54232009" ref="contacts"/>
+    <file name="location.css" crc="387894909" ref="location"/>
+    <file name="contacts.css" crc="4274290" ref="contacts"/>
     <file name="careers.css" crc="203744082" ref="careers"/>
-    <file name="index.css" crc="689726" ref="index"/>
-    <file name="nomq_index.css" crc="3905308037" ref="index"/>
-    <file name="master_a-master.css" crc="310340189" ref="index:contacts:location:careers:donuts"/>
+    <file name="index.css" crc="189537445" ref="index"/>
+    <file name="nomq_index.css" crc="181274381" ref="index"/>
+    <file name="master_a-master.css" crc="3787789008" ref="index:contacts:location:careers:donuts"/>
     <file name="nomq_preview_master_a-master.css" crc="485943741" ref="index:contacts:location:careers:donuts"/>
-    <file name="donuts.css" crc="490982109" ref="donuts"/>
+    <file name="donuts.css" crc="3352955" ref="donuts"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:location:contacts:careers:donuts"/>
@@ -112,13 +112,8 @@
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="location" alt=""/>
       <caption webpage="contacts" alt=""/>
-      <caption webpage="temp" alt=""/>
-      <caption webpage="temp" alt=""/>
-      <caption webpage="temp" alt=""/>
-      <caption webpage="temp" alt=""/>
-      <caption webpage="temp" alt=""/>
+      <caption webpage="location" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -128,6 +123,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="careers" alt=""/>
       <caption webpage="donuts" alt=""/>
+      <caption webpage="temp" alt=""/>
+      <caption webpage="temp" alt=""/>
+      <caption webpage="temp" alt=""/>
+      <caption webpage="temp" alt=""/>
+      <caption webpage="temp" alt=""/>
     </file>
     <file name="007-facebook-logo-in-circular-button-outlined-social-symbol.png" crc="4157549344" seo="true" ref="index:location:contacts:careers:donuts">
       <caption webpage="home" alt=""/>
@@ -135,13 +135,8 @@
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="location" alt=""/>
       <caption webpage="contacts" alt=""/>
-      <caption webpage="temp" alt=""/>
-      <caption webpage="temp" alt=""/>
-      <caption webpage="temp" alt=""/>
-      <caption webpage="temp" alt=""/>
-      <caption webpage="temp" alt=""/>
+      <caption webpage="location" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -151,6 +146,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="careers" alt=""/>
       <caption webpage="donuts" alt=""/>
+      <caption webpage="temp" alt=""/>
+      <caption webpage="temp" alt=""/>
+      <caption webpage="temp" alt=""/>
+      <caption webpage="temp" alt=""/>
+      <caption webpage="temp" alt=""/>
     </file>
     <file name="009-twitter-circular-button.png" crc="369511241" seo="true" ref="index:location:contacts:careers:donuts">
       <caption webpage="home" alt=""/>
@@ -158,13 +158,8 @@
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="location" alt=""/>
       <caption webpage="contacts" alt=""/>
-      <caption webpage="temp" alt=""/>
-      <caption webpage="temp" alt=""/>
-      <caption webpage="temp" alt=""/>
-      <caption webpage="temp" alt=""/>
-      <caption webpage="temp" alt=""/>
+      <caption webpage="location" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -174,6 +169,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="careers" alt=""/>
       <caption webpage="donuts" alt=""/>
+      <caption webpage="temp" alt=""/>
+      <caption webpage="temp" alt=""/>
+      <caption webpage="temp" alt=""/>
+      <caption webpage="temp" alt=""/>
+      <caption webpage="temp" alt=""/>
     </file>
     <file name="002-youtube-logo.png" crc="3899220818" seo="true" ref="index:location:contacts:careers:donuts">
       <caption webpage="home" alt=""/>
@@ -181,13 +181,8 @@
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="location" alt=""/>
       <caption webpage="contacts" alt=""/>
-      <caption webpage="temp" alt=""/>
-      <caption webpage="temp" alt=""/>
-      <caption webpage="temp" alt=""/>
-      <caption webpage="temp" alt=""/>
-      <caption webpage="temp" alt=""/>
+      <caption webpage="location" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -197,6 +192,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="careers" alt=""/>
       <caption webpage="donuts" alt=""/>
+      <caption webpage="temp" alt=""/>
+      <caption webpage="temp" alt=""/>
+      <caption webpage="temp" alt=""/>
+      <caption webpage="temp" alt=""/>
+      <caption webpage="temp" alt=""/>
     </file>
     <file name="bagels.jpg" crc="23442767" seo="true" ref="donuts">
       <caption webpage="index" alt=""/>
@@ -227,16 +227,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="donuts" alt=""/>
-    </file>
-    <file name="donuts copy.jpg" crc="4169301653" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="temp" alt=""/>
-      <caption webpage="temp" alt=""/>
     </file>
     <file name="animated-banner4_00.gif" crc="373868142" seo="true" ref="donuts">
       <caption webpage="index" alt=""/>
@@ -328,7 +318,7 @@
       <caption webpage="home" alt=""/>
       <caption webpage="temp" alt=""/>
     </file>
-    <file name="img_3379.jpg" crc="4017156460" seo="true" ref="index">
+    <file name="img_3379.jpg" crc="12185" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="home" alt=""/>
@@ -336,18 +326,6 @@
     </file>
     <file name="img_3479.jpg" crc="4150911448" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="temp" alt=""/>
-    </file>
-    <file name="img_3683.jpg" crc="104350901" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="temp" alt=""/>
-    </file>
-    <file name="glass166x246.png" crc="166237223" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="temp" alt=""/>
@@ -372,40 +350,93 @@
     <file name="smothies 2-crop-u529754.png" crc="72407968" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="happy-birthday-composition-with-space-for-message_23-2147626701.jpg" crc="3882267085" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="old-paper-texture-background_1232-1932.jpg" crc="316907295" ref="index">
       <caption webpage="index" alt="ICED COFFEE"/>
     </file>
     <file name="glass-u64080.png" crc="377796" ref="index"/>
-    <file name="hot coffee copy210x311.png" crc="230875727" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="smothies 2156x232.png" crc="66582416" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="glass-u640802.png" crc="377796" ref="index"/>
     <file name="glass-u640803.png" crc="4069060060" ref="index"/>
     <file name="hot coffee copy210x312.png" crc="4067907635" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_3379130x195.jpg" crc="65557387" seo="true" ref="index">
+    <file name="img_3379130x195.jpg" crc="3901929568" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_3479132x196.jpg" crc="4173591173" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="smothies 2157x232.png" crc="3784107125" seo="true" ref="index">
+    <file name="iced tea.png" crc="3925327663" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="happy-birthday-composition-with-space-for-message_23-2147626701-u65337-fr.jpg" crc="4240470037" ref="index"/>
+    <file name="bk2-u64084-fr.jpg" crc="120319765" ref="index"/>
+    <file name="img_1284.jpg" crc="4178713707" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hot coffee copy246x365.png" crc="4258330179" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s22.png" crc="355769164" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="smothies 2249x369.png" crc="4060216306" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="juice 1.png" crc="4070436638" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="have a gourmet day.jpg" crc="112111131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bk2-u64084-fr2.jpg" crc="22637917" ref="index"/>
+    <file name="smothies 2235x349.png" crc="96076484" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iced corner-crop-u68438.png" crc="3828889176" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bk2-u52238-fr.jpg" crc="3838166296" ref="index"/>
+    <file name="img_3417low copy.png" crc="3913361980" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iced corner-crop-u684382.png" crc="3828889176" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iced corner-crop-u684383.png" crc="3828889176" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="glass154x228.png" crc="43877594" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iced corner161x181.png" crc="231663882" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bk2-u52238-fr2.jpg" crc="4276092713" ref="index"/>
   </folder>
-  <file name="index.html" crc="3779106555" seo="true" mt="1499789944393" redirect="true"/>
-  <file name="location.html" crc="316220373" seo="true" mt="1499789485421" redirect="true"/>
-  <file name="contacts.html" crc="341066257" seo="true" mt="1499789485421" redirect="true"/>
-  <file name="careers.html" crc="515702563" seo="true" mt="1499789485421" redirect="true"/>
-  <file name="donuts.html" crc="168371057" seo="true" mt="1499789485421" redirect="true"/>
+  <file name="index.html" crc="147311469" seo="true" mt="1499850103075" redirect="true"/>
+  <file name="location.html" crc="4280527962" seo="true" mt="1499846701785" redirect="true"/>
+  <file name="contacts.html" crc="383933256" seo="true" mt="1499846701785" redirect="true"/>
+  <file name="careers.html" crc="148230576" seo="true" mt="1499846701785" redirect="true"/>
+  <file name="donuts.html" crc="18403590" seo="true" mt="1499846701785" redirect="true"/>
 </manifest>
