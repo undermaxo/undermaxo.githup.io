@@ -1,16 +1,16 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test2.com" resolutions="1x" timestamp="1499872147635">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test2.com" resolutions="1x" timestamp="1499872742292">
   <folder name="css">
     <file name="site_global.css" crc="15382726"/>
-    <file name="master_a-master.css" crc="287115021" ref="careers:donuts:location:contacts:index"/>
-    <file name="nomq_preview_master_a-master.css" crc="3990282702" ref="careers:donuts:location:contacts:index"/>
+    <file name="master_a-master.css" crc="3972368982" ref="careers:donuts:location:contacts:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3998759436" ref="careers:donuts:location:contacts:index"/>
     <file name="careers.css" crc="212336652" ref="careers"/>
-    <file name="donuts.css" crc="446154192" ref="donuts"/>
-    <file name="nomq_donuts.css" crc="529495911" ref="donuts"/>
-    <file name="location.css" crc="4246456022" ref="location"/>
-    <file name="nomq_location.css" crc="4186164637" ref="location"/>
+    <file name="donuts.css" crc="177657245" ref="donuts"/>
+    <file name="nomq_donuts.css" crc="148249360" ref="donuts"/>
+    <file name="location.css" crc="4206159680" ref="location"/>
+    <file name="nomq_location.css" crc="3880125419" ref="location"/>
     <file name="contacts.css" crc="39793304" ref="contacts"/>
-    <file name="index.css" crc="162102171" ref="index"/>
-    <file name="nomq_index.css" crc="3914830225" ref="index"/>
+    <file name="index.css" crc="135051964" ref="index"/>
+    <file name="nomq_index.css" crc="349310" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="donuts:index:location:contacts:careers"/>
@@ -80,6 +80,7 @@
       <caption webpage="donuts" alt=""/>
     </file>
     <file name="u8377.png" crc="449166859" ref="donuts:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="donuts" alt=""/>
     </file>
     <file name="001-instagram-social-network-logo-of-photo-camera.png" crc="338094700" seo="true" ref="donuts:index:location:contacts:careers">
@@ -90,12 +91,12 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="donuts" alt=""/>
-      <caption webpage="donuts" alt=""/>
-      <caption webpage="location" alt=""/>
-      <caption webpage="location" alt=""/>
-      <caption webpage="contacts" alt=""/>
       <caption webpage="careers" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="donuts" alt=""/>
+      <caption webpage="donuts" alt=""/>
+      <caption webpage="contacts" alt=""/>
     </file>
     <file name="007-facebook-logo-in-circular-button-outlined-social-symbol.png" crc="4157549344" seo="true" ref="donuts:index:location:contacts:careers">
       <caption webpage="index" alt=""/>
@@ -105,12 +106,12 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="donuts" alt=""/>
-      <caption webpage="donuts" alt=""/>
-      <caption webpage="location" alt=""/>
-      <caption webpage="location" alt=""/>
-      <caption webpage="contacts" alt=""/>
       <caption webpage="careers" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="donuts" alt=""/>
+      <caption webpage="donuts" alt=""/>
+      <caption webpage="contacts" alt=""/>
     </file>
     <file name="009-twitter-circular-button.png" crc="369511241" seo="true" ref="donuts:index:location:contacts:careers">
       <caption webpage="index" alt=""/>
@@ -120,12 +121,12 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="donuts" alt=""/>
-      <caption webpage="donuts" alt=""/>
-      <caption webpage="location" alt=""/>
-      <caption webpage="location" alt=""/>
-      <caption webpage="contacts" alt=""/>
       <caption webpage="careers" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="donuts" alt=""/>
+      <caption webpage="donuts" alt=""/>
+      <caption webpage="contacts" alt=""/>
     </file>
     <file name="002-youtube-logo.png" crc="3899220818" seo="true" ref="donuts:index:location:contacts:careers">
       <caption webpage="index" alt=""/>
@@ -135,12 +136,12 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="donuts" alt=""/>
-      <caption webpage="donuts" alt=""/>
-      <caption webpage="location" alt=""/>
-      <caption webpage="location" alt=""/>
-      <caption webpage="contacts" alt=""/>
       <caption webpage="careers" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="donuts" alt=""/>
+      <caption webpage="donuts" alt=""/>
+      <caption webpage="contacts" alt=""/>
     </file>
     <file name="btn 2-u12863-4-fr.jpg" crc="4231593918" ref="donuts"/>
     <file name="blank.gif" crc="4208392903" ref="donuts:index:location"/>
@@ -402,9 +403,9 @@
       <caption webpage="careers" alt=""/>
     </file>
   </folder>
-  <file name="donuts.html" crc="4047503935" seo="true" mt="1499871990218" redirect="true"/>
-  <file name="index.html" crc="3936357515" seo="true" mt="1499872094619" redirect="true"/>
-  <file name="location.html" crc="4126229571" seo="true" mt="1499871990218" redirect="true"/>
-  <file name="contacts.html" crc="138495438" seo="true" mt="1499871990218" redirect="true"/>
-  <file name="careers.html" crc="250105317" seo="true" mt="1499871990218" redirect="true"/>
+  <file name="donuts.html" crc="66389430" seo="true" mt="1499872589383" redirect="true"/>
+  <file name="index.html" crc="4032419336" seo="true" mt="1499872709589" redirect="true"/>
+  <file name="location.html" crc="273130723" seo="true" mt="1499872589383" redirect="true"/>
+  <file name="contacts.html" crc="138495438" seo="true" mt="1499872589383" redirect="true"/>
+  <file name="careers.html" crc="250105317" seo="true" mt="1499872589383" redirect="true"/>
 </manifest>
