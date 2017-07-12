@@ -128,6 +128,9 @@
     <image:image>
       <image:loc>http://test2.com/images/iced%20corner161x181.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/have%20a%20gourmet%20day%203.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://test2.com/location.html</loc>
