@@ -1,0 +1,56 @@
+﻿Merge remote-tracking branch 'origin/master'
+
+# Conflicts:
+#	careers.html
+#	contacts.html
+#	css/careers.css
+#	css/contacts.css
+#	css/donuts.css
+#	css/index.css
+#	css/location.css
+#	css/master_a-master.css
+#	css/nomq_donuts.css
+#	css/nomq_index.css
+#	css/nomq_location.css
+#	css/nomq_preview_master_a-master.css
+#	donuts.html
+#	index.html
+#	location.html
+#	muse_manifest.xml
+#	sitemap.xml
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch and 'origin/master' have diverged,
+# and have 1 and 2 different commits each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+#
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	modified:   careers.html
+#	modified:   contacts.html
+#	modified:   css/careers.css
+#	modified:   css/contacts.css
+#	modified:   css/donuts.css
+#	modified:   css/index.css
+#	modified:   css/location.css
+#	modified:   css/master_a-master.css
+#	modified:   css/nomq_donuts.css
+#	modified:   css/nomq_index.css
+#	modified:   css/nomq_location.css
+#	modified:   css/nomq_preview_master_a-master.css
+#	modified:   donuts.html
+#	modified:   index.html
+#	modified:   location.html
+#	modified:   muse_manifest.xml
+#	modified:   sitemap.xml
+#
+
