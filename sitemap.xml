@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://test2.com/index.html</loc>
-    <lastmod>2017-07-13</lastmod>
+    <lastmod>2017-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -180,19 +180,10 @@
       <image:loc>http://test2.com/images/d42.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test2.com/images/location.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/location254x254.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://test2.com/images/img_3379162x242.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test2.com/images/smothies%202153x226.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/location268x268.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test2.com/images/img_3479-crop-u640983.jpg</image:loc>
@@ -210,9 +201,6 @@
       <image:loc>http://test2.com/images/logo2880x193.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test2.com/images/location-crop-u227493.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://test2.com/images/glass-crop-u525105.png</image:loc>
     </image:image>
     <image:image>
@@ -223,6 +211,9 @@
     </image:image>
     <image:image>
       <image:loc>http://test2.com/images/smothies%202-crop-u529756.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/location-200.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -302,7 +293,7 @@
   </url>
   <url>
     <loc>http://test2.com/contacts.html</loc>
-    <lastmod>2017-07-13</lastmod>
+    <lastmod>2017-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
