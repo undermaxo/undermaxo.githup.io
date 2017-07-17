@@ -1,17 +1,21 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test2.com" resolutions="1x" timestamp="1500123351683">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test2.com" resolutions="1x" timestamp="1500282649909">
+  <folder name="assets">
+    <file name="formt.html" crc="4128309666" seo="true" mt="1500275981000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="15382726"/>
-    <file name="master_a-master.css" crc="525297388" ref="careers:donuts:location:contacts:index"/>
+    <file name="master_a-master.css" crc="4251572918" ref="careers:donuts:location:contacts:index"/>
     <file name="nomq_preview_master_a-master.css" crc="4039370324" ref="careers:donuts:location:contacts:index"/>
-    <file name="careers.css" crc="3826044981" ref="careers"/>
-    <file name="donuts.css" crc="3814711104" ref="donuts"/>
+    <file name="careers.css" crc="16007514" ref="careers"/>
+    <file name="donuts.css" crc="365536185" ref="donuts"/>
     <file name="nomq_donuts.css" crc="3899658697" ref="donuts"/>
-    <file name="location.css" crc="4152640202" ref="location"/>
+    <file name="location.css" crc="382940561" ref="location"/>
     <file name="nomq_location.css" crc="262853864" ref="location"/>
-    <file name="contacts.css" crc="51476783" ref="contacts"/>
-    <file name="index.css" crc="383100729" ref="index"/>
-    <file name="nomq_index.css" crc="70952709" ref="index"/>
-    <file name="nomq_contacts.css" crc="3840722417" ref="contacts"/>
+    <file name="contacts.css" crc="86837016" ref="contacts"/>
+    <file name="index.css" crc="3920702467" ref="index"/>
+    <file name="nomq_index.css" crc="4152518533" ref="index"/>
+    <file name="nomq_contacts.css" crc="56418795" ref="contacts"/>
+    <file name="nomq_careers.css" crc="3802714546" ref="careers"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="donuts:index:location:contacts:careers"/>
@@ -24,7 +28,7 @@
     <file name="jquery.musemenu.js" crc="3936200140" ref="donuts:index:location:contacts:careers"/>
     <file name="jquery.watch.js" crc="4178585335" ref="donuts:index:location:contacts:careers"/>
     <file name="html5shiv.js" crc="4241844378" ref="donuts:index:location:contacts:careers"/>
-    <file name="jquery.museresponsive.js" crc="52098982" ref="donuts:index:location:contacts"/>
+    <file name="jquery.museresponsive.js" crc="52098982" ref="donuts:index:location:contacts:careers"/>
     <file name="require.js" crc="85721165" ref="donuts:index:location:contacts:careers"/>
     <file name="musewpslideshow.js" crc="380562115" ref="index"/>
     <file name="jquery.museoverlay.js" crc="3986278607" ref="index"/>
@@ -155,16 +159,17 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="donuts" alt=""/>
-      <caption webpage="donuts" alt=""/>
-      <caption webpage="location" alt=""/>
-      <caption webpage="location" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
       <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="donuts" alt=""/>
+      <caption webpage="donuts" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
     </file>
     <file name="007-facebook-logo-in-circular-button-outlined-social-symbol.png" crc="4157549344" seo="true" ref="donuts:index:location:contacts:careers">
       <caption webpage="index" alt=""/>
@@ -176,16 +181,17 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="donuts" alt=""/>
-      <caption webpage="donuts" alt=""/>
-      <caption webpage="location" alt=""/>
-      <caption webpage="location" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
       <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="donuts" alt=""/>
+      <caption webpage="donuts" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
     </file>
     <file name="009-twitter-circular-button.png" crc="369511241" seo="true" ref="donuts:index:location:contacts:careers">
       <caption webpage="index" alt=""/>
@@ -197,16 +203,17 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="donuts" alt=""/>
-      <caption webpage="donuts" alt=""/>
-      <caption webpage="location" alt=""/>
-      <caption webpage="location" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
       <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="donuts" alt=""/>
+      <caption webpage="donuts" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
     </file>
     <file name="002-youtube-logo.png" crc="3899220818" seo="true" ref="donuts:index:location:contacts:careers">
       <caption webpage="index" alt=""/>
@@ -218,19 +225,20 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="donuts" alt=""/>
-      <caption webpage="donuts" alt=""/>
-      <caption webpage="location" alt=""/>
-      <caption webpage="location" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
       <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="donuts" alt=""/>
+      <caption webpage="donuts" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
     </file>
     <file name="btn 2-u12863-4-fr.jpg" crc="4231593918" ref="donuts"/>
-    <file name="blank.gif" crc="4208392903" ref="donuts:index:location:contacts"/>
+    <file name="blank.gif" crc="4208392903" ref="donuts:index:location:contacts:careers"/>
     <file name="old-paper-texture-background_1232-1932.jpg" crc="316907295" ref="index">
       <caption webpage="index" alt="ICED COFFEE"/>
     </file>
@@ -405,8 +413,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="have a gourmet day 4.jpg" crc="521375382" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -637,7 +643,6 @@
     <file name="s2258x118.png" crc="214151977" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="btn 2-u227414-4-fr2.jpg" crc="3970830036" ref="index"/>
     <file name="hot coffee copy147x218.png" crc="319851045" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -658,10 +663,18 @@
     </file>
     <file name="img_1284-u64084-fr3.jpg" crc="401864822" ref="index"/>
     <file name="glass-u640806.png" crc="532007446" ref="index"/>
+    <file name="pasted image 1280x800-crop-u166452.jpg" crc="92463609" seo="true" ref="careers">
+      <caption webpage="careers" alt=""/>
+    </file>
+    <file name="btn 2-u227414-4-fr2.jpg" crc="3970830036" ref="index"/>
+    <file name="have a gourmet day rec.jpg" crc="4210815223" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="donuts.html" crc="301848430" seo="true" mt="1500020125144" redirect="true"/>
-  <file name="index.html" crc="4096729676" seo="true" mt="1500123178706" redirect="true"/>
-  <file name="location.html" crc="4062320911" seo="true" mt="1500020125144" redirect="true"/>
-  <file name="contacts.html" crc="394217807" seo="true" mt="1500123209883" redirect="true"/>
-  <file name="careers.html" crc="20450771" seo="true" mt="1500020125144" redirect="true"/>
+  <file name="donuts.html" crc="534780019" seo="true" mt="1500271115659" redirect="true"/>
+  <file name="index.html" crc="4132699486" seo="true" mt="1500274386528" redirect="true"/>
+  <file name="location.html" crc="433727585" seo="true" mt="1500271115659" redirect="true"/>
+  <file name="contacts.html" crc="469042848" seo="true" mt="1500282644972" redirect="true"/>
+  <file name="careers.html" crc="373527194" seo="true" mt="1500271936470" redirect="true"/>
 </manifest>

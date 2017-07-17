@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://test2.com/index.html</loc>
-    <lastmod>2017-07-15</lastmod>
+    <lastmod>2017-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -236,37 +236,13 @@
     <image:image>
       <image:loc>http://test2.com/images/d5-crop-u2273754.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://test2.com/location.html</loc>
-    <lastmod>2017-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://test2.com/images/001-instagram-social-network-logo-of-photo-camera.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/007-facebook-logo-in-circular-button-outlined-social-symbol.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/009-twitter-circular-button.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/002-youtube-logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/1498787130_logo_social_media_location.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/logo2746x163.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/logo2281x62.jpg</image:loc>
+      <image:loc>http://test2.com/images/have%20a%20gourmet%20day%20rec.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://test2.com/donuts.html</loc>
-    <lastmod>2017-07-14</lastmod>
+    <lastmod>2017-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -313,8 +289,35 @@
     </image:image>
   </url>
   <url>
+    <loc>http://test2.com/location.html</loc>
+    <lastmod>2017-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://test2.com/images/001-instagram-social-network-logo-of-photo-camera.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/007-facebook-logo-in-circular-button-outlined-social-symbol.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/009-twitter-circular-button.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/002-youtube-logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/1498787130_logo_social_media_location.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/logo2746x163.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/logo2281x62.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://test2.com/contacts.html</loc>
-    <lastmod>2017-07-15</lastmod>
+    <lastmod>2017-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -332,7 +335,7 @@
   </url>
   <url>
     <loc>http://test2.com/careers.html</loc>
-    <lastmod>2017-07-14</lastmod>
+    <lastmod>2017-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -350,5 +353,14 @@
     <image:image>
       <image:loc>http://test2.com/images/pasted%20image%201280x800-crop-u16645.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/pasted%20image%201280x800-crop-u166452.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://test2.com/assets/formt.html</loc>
+    <lastmod>2017-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
