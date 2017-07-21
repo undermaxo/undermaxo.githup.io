@@ -2,9 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://test2.com/index.html</loc>
-    <lastmod>2017-07-17</lastmod>
+    <lastmod>2017-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://test2.com/phone/index.html"/>
+    <image:image>
+      <image:loc>http://test2.com/images/iced%20tea.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/s22.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/don%20700.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/have%20a%20gourmet%20day%204.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/d3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/d4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/d2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/d5.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://test2.com/images/single%20domnuts%202.jpg</image:loc>
     </image:image>
@@ -30,6 +55,39 @@
       <image:loc>http://test2.com/images/sandwitches.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://test2.com/images/1498787130_logo_social_media_location.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/d4-crop-u140674.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/d5-crop-u140690.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/hot%20coffee%20copy245x364.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/img_3379.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/img_3479-crop-u64098.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/juice%201.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/smothies%202253x376.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/logo2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/have%20a%20gourmet%20day.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/bag.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://test2.com/images/001-instagram-social-network-logo-of-photo-camera.png</image:loc>
     </image:image>
     <image:image>
@@ -42,43 +100,31 @@
       <image:loc>http://test2.com/images/002-youtube-logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test2.com/images/iced%20tea.png</image:loc>
+      <image:loc>http://test2.com/images/226.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/d42.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/d52.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test2.com/images/hot%20coffee%20copy246x365.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test2.com/images/juice%201.png</image:loc>
+      <image:loc>http://test2.com/images/img_3479-crop-u640982.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test2.com/images/s22.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/smothies%202249x369.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/img_3379.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/bag.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/d2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/d3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/d4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/d5.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/don%20700.jpg</image:loc>
+      <image:loc>http://test2.com/images/smothies%202244x362.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test2.com/images/stores.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/d4-crop-u227373.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/d5-crop-u227375.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test2.com/images/hot%20coffee%20copy210x312.png</image:loc>
@@ -93,76 +139,7 @@
       <image:loc>http://test2.com/images/smothies%202235x349.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test2.com/images/glass-crop-u52510.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/iced%20corner-crop-u68438.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/hot%20coffee%20copy-crop-u51240.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/smothies%202-crop-u52975.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/img_3417low%20copy.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/have%20a%20gourmet%20day%204.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/glass-crop-u525102.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/iced%20corner-crop-u684382.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/hot%20coffee%20copy-crop-u512402.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/smothies%202-crop-u529752.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/hot%20coffee%20copy-crop-u512403.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/smothies%202-crop-u529753.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/glass154x228.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/iced%20corner161x181.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/logo2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/1498787130_logo_social_media_location.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/img_3479-crop-u64098.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/img_3479-crop-u640982.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/d52.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/d42.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/d4-crop-u227373.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/d5-crop-u227375.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/logo2880x193.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/226.gif</image:loc>
+      <image:loc>http://test2.com/images/logo2916x201.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test2.com/images/d4-crop-u2273732.jpg</image:loc>
@@ -171,7 +148,7 @@
       <image:loc>http://test2.com/images/d5-crop-u2273752.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test2.com/images/logo2582x128.jpg</image:loc>
+      <image:loc>http://test2.com/images/logo2887x195.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test2.com/images/d4-crop-u2273733.jpg</image:loc>
@@ -180,55 +157,7 @@
       <image:loc>http://test2.com/images/d5-crop-u2273753.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test2.com/images/logo2525x115.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/hot%20coffee%20copy126x187.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/smothies%202147x218.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/smothies%202373x554.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/img_3379264x396.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/juice%2012.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/s222.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/d4196x127.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/d5197x131.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/s22182x370.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/s22118x240.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/s2296x195.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/s2258x118.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/hot%20coffee%20copy147x218.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/s22134x271.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/smothies%202139x206.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/logo2555x122.jpg</image:loc>
+      <image:loc>http://test2.com/images/logo2582x128.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test2.com/images/d4-crop-u2273734.jpg</image:loc>
@@ -237,125 +166,47 @@
       <image:loc>http://test2.com/images/d5-crop-u2273754.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test2.com/images/have%20a%20gourmet%20day%20rec.jpg</image:loc>
+      <image:loc>http://test2.com/images/hot%20coffee%20copy147x218.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/smothies%202139x206.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/logo2555x122.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/d4-crop-u2273735.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/d5-crop-u2273755.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/logo2525x115.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://test2.com/donuts.html</loc>
-    <lastmod>2017-07-17</lastmod>
+    <loc>http://test2.com/phone/donuts.html</loc>
+    <lastmod>2017-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://test2.com/images/animated-banner4_00.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/single%20domnuts%202.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/holes.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/single%20domnuts%202%20sticks.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/bagels.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/mufins.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/dannish.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/rolls.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/sandwitches.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/logo_00.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/001-instagram-social-network-logo-of-photo-camera.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/007-facebook-logo-in-circular-button-outlined-social-symbol.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/009-twitter-circular-button.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/002-youtube-logo.png</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://test2.com/location.html</loc>
-    <lastmod>2017-07-17</lastmod>
+    <loc>http://test2.com/phone/location.html</loc>
+    <lastmod>2017-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://test2.com/images/001-instagram-social-network-logo-of-photo-camera.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/007-facebook-logo-in-circular-button-outlined-social-symbol.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/009-twitter-circular-button.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/002-youtube-logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/1498787130_logo_social_media_location.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/logo2746x163.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/logo2281x62.jpg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://test2.com/contacts.html</loc>
-    <lastmod>2017-07-17</lastmod>
+    <loc>http://test2.com/phone/contacts.html</loc>
+    <lastmod>2017-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://test2.com/images/001-instagram-social-network-logo-of-photo-camera.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/007-facebook-logo-in-circular-button-outlined-social-symbol.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/009-twitter-circular-button.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/002-youtube-logo.png</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://test2.com/careers.html</loc>
-    <lastmod>2017-07-17</lastmod>
+    <loc>http://test2.com/phone/careers.html</loc>
+    <lastmod>2017-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://test2.com/images/001-instagram-social-network-logo-of-photo-camera.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/007-facebook-logo-in-circular-button-outlined-social-symbol.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/009-twitter-circular-button.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/002-youtube-logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/pasted%20image%201280x800-crop-u16645.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test2.com/images/pasted%20image%201280x800-crop-u166452.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://test2.com/assets/formt.html</loc>
