@@ -24,10 +24,6 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="../css/site_global.css?crc=15382726"/>
   <link rel="stylesheet" type="text/css" href="css/index.css?crc=4021538510" id="pagesheet"/>
-  <!-- JS includes -->
-  <!--[if lt IE 9]>
-  <script src="../scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
-  <![endif]-->
    </head>
  <body>
 
@@ -48,6 +44,7 @@ setTimeout(function(){g(!0)},5E3):g()}};
 var muse_init=function(){require.config({baseUrl:"../"});require(["jquery","museutils","whatinput","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+Muse.Utils.detectScreenResolution();/* HiDPI screens */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
