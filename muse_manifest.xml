@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test2.com" resolutions="1x" timestamp="1500802702428">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test2.com" resolutions="1x" timestamp="1500803067823">
   <folder name="css">
     <file name="site_global.css" crc="15382726"/>
     <file name="master_a-master.css" crc="357020455" ref="index"/>
@@ -501,13 +501,13 @@
       <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="phone>contacts:phone>location:phone>index:phone>careers:phone>donuts"/>
       <file name="contacts.css" crc="3892700489" ref="phone>contacts"/>
       <file name="location.css" crc="182492473" ref="phone>location"/>
-      <file name="index.css" crc="501921263" ref="phone>index"/>
-      <file name="nomq_index.css" crc="265217258" ref="phone>index"/>
+      <file name="index.css" crc="4269350469" ref="phone>index"/>
+      <file name="nomq_index.css" crc="4097449640" ref="phone>index"/>
       <file name="careers.css" crc="4024163349" ref="phone>careers"/>
       <file name="nomq_careers.css" crc="3824530138" ref="phone>careers"/>
       <file name="donuts.css" crc="3868586815" ref="phone>donuts"/>
     </folder>
-    <file name="index.html" crc="455673847" seo="true" mt="1500802678591" redirect="true"/>
+    <file name="index.html" crc="4260271977" seo="true" mt="1500803048862" redirect="true"/>
     <file name="donuts.html" crc="531655182" seo="true" mt="1500707235792" redirect="true"/>
     <file name="location.html" crc="3963952182" seo="true" mt="1500707235792" redirect="true"/>
     <file name="contacts.html" crc="535819827" seo="true" mt="1500707235792" redirect="true"/>
