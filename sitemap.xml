@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://test2.com/index.html</loc>
-    <lastmod>2017-07-22</lastmod>
+    <lastmod>2017-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://test2.com/phone/index.html"/>
@@ -40,10 +40,16 @@
       <image:loc>http://test2.com/images/single%20domnuts%202%20sticks.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://test2.com/images/bagels.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://test2.com/images/dannish.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test2.com/images/rolls.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/sandwitches.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test2.com/images/1498787130_logo_social_media_location.png</image:loc>
@@ -77,6 +83,27 @@
     </image:image>
     <image:image>
       <image:loc>http://test2.com/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/contac.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/hot%20coffee%20copy245x364.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/smothies%202162x235.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/logo21024x225.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/hot%20coffee%20copy245x363.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/smothies%202158x229.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test2.com/images/logo2601x132.jpg</image:loc>
     </image:image>
   </url>
   <url>
