@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test2.com" resolutions="1x" timestamp="1500803067823">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test2.com" resolutions="1x" timestamp="1500807144884">
   <folder name="css">
     <file name="site_global.css" crc="15382726"/>
     <file name="master_a-master.css" crc="357020455" ref="index"/>
@@ -74,34 +74,34 @@
     <file name="001-instagram-social-network-logo-of-photo-camera.png" crc="4039597079" seo="true" ref="phone>donuts:phone>location:phone>contacts:phone>careers:index:phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="donuts" alt=""/>
-      <caption webpage="location" alt=""/>
-      <caption webpage="contacts" alt=""/>
       <caption webpage="careers" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="donuts" alt=""/>
+      <caption webpage="contacts" alt=""/>
     </file>
     <file name="007-facebook-logo-in-circular-button-outlined-social-symbol.png" crc="4008945219" seo="true" ref="phone>donuts:phone>location:phone>contacts:phone>careers:index:phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="donuts" alt=""/>
-      <caption webpage="location" alt=""/>
-      <caption webpage="contacts" alt=""/>
       <caption webpage="careers" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="donuts" alt=""/>
+      <caption webpage="contacts" alt=""/>
     </file>
     <file name="009-twitter-circular-button.png" crc="3878883123" seo="true" ref="phone>donuts:phone>location:phone>contacts:phone>careers:index:phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="donuts" alt=""/>
-      <caption webpage="location" alt=""/>
-      <caption webpage="contacts" alt=""/>
       <caption webpage="careers" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="donuts" alt=""/>
+      <caption webpage="contacts" alt=""/>
     </file>
     <file name="002-youtube-logo.png" crc="3840472401" seo="true" ref="phone>donuts:phone>location:phone>contacts:phone>careers:index:phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="donuts" alt=""/>
-      <caption webpage="location" alt=""/>
-      <caption webpage="contacts" alt=""/>
       <caption webpage="careers" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="donuts" alt=""/>
+      <caption webpage="contacts" alt=""/>
     </file>
     <file name="glass153x227.png" crc="89807394" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
@@ -215,7 +215,7 @@
     <file name="logo_00.png" crc="4000747361" seo="true" ref="phone>donuts">
       <caption webpage="donuts" alt=""/>
     </file>
-    <file name="logo2225x50.jpg" crc="239903521" seo="true" ref="phone>location">
+    <file name="logo2225x50.jpg" crc="4247743743" seo="true" ref="phone>location">
       <caption webpage="location" alt=""/>
     </file>
     <file name="1498787130_logo_social_media_location.png" crc="3781429761" seo="true" ref="phone>location:index">
@@ -487,6 +487,9 @@
     <file name="iced tea-crop-u302866.png" crc="86370775" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="lock.gif" crc="373406261" seo="true" ref="phone>location">
+      <caption webpage="location" alt=""/>
+    </file>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -497,10 +500,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="4258823027" ref="phone>contacts:phone>location:phone>index:phone>careers:phone>donuts"/>
-      <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="phone>contacts:phone>location:phone>index:phone>careers:phone>donuts"/>
+      <file name="master_a-master.css" crc="3915970424" ref="phone>contacts:phone>location:phone>index:phone>careers:phone>donuts"/>
+      <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="phone>contacts:phone>index:phone>careers:phone>donuts"/>
       <file name="contacts.css" crc="3892700489" ref="phone>contacts"/>
-      <file name="location.css" crc="182492473" ref="phone>location"/>
+      <file name="location.css" crc="200056178" ref="phone>location"/>
       <file name="index.css" crc="4269350469" ref="phone>index"/>
       <file name="nomq_index.css" crc="4097449640" ref="phone>index"/>
       <file name="careers.css" crc="4024163349" ref="phone>careers"/>
@@ -509,7 +512,7 @@
     </folder>
     <file name="index.html" crc="4260271977" seo="true" mt="1500803048862" redirect="true"/>
     <file name="donuts.html" crc="531655182" seo="true" mt="1500707235792" redirect="true"/>
-    <file name="location.html" crc="3963952182" seo="true" mt="1500707235792" redirect="true"/>
+    <file name="location.html" crc="486708403" seo="true" mt="1500807131995" redirect="true"/>
     <file name="contacts.html" crc="535819827" seo="true" mt="1500707235792" redirect="true"/>
     <file name="careers.html" crc="4284567710" seo="true" mt="1500707235792" redirect="true"/>
   </folder>
