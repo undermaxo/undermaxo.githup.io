@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test2.com" resolutions="1x" timestamp="1501059014568">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test2.com" resolutions="1x" timestamp="1501074283534">
   <folder name="css">
     <file name="site_global.css" crc="15382726"/>
-    <file name="master_a-master.css" crc="416239926" ref="index"/>
+    <file name="master_a-master.css" crc="4236475327" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3849490868" ref="index"/>
-    <file name="index.css" crc="4142452033" ref="index"/>
-    <file name="nomq_index.css" crc="105915664" ref="index"/>
+    <file name="index.css" crc="321402572" ref="index"/>
+    <file name="nomq_index.css" crc="4088484113" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="formt.html" crc="4128309666" seo="true" mt="1500275981000"/>
@@ -96,10 +96,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="location" alt=""/>
-      <caption webpage="careers" alt=""/>
       <caption webpage="donuts" alt=""/>
       <caption webpage="contacts" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="careers" alt=""/>
     </file>
     <file name="007-facebook-logo-in-circular-button-outlined-social-symbol.png" crc="4008945219" seo="true" ref="phone>donuts:phone>location:phone>contacts:phone>careers:index:phone>index:tablet>index">
       <caption webpage="index" alt=""/>
@@ -109,10 +109,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="location" alt=""/>
-      <caption webpage="careers" alt=""/>
       <caption webpage="donuts" alt=""/>
       <caption webpage="contacts" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="careers" alt=""/>
     </file>
     <file name="009-twitter-circular-button.png" crc="3878883123" seo="true" ref="phone>donuts:phone>location:phone>contacts:phone>careers:index:phone>index:tablet>index">
       <caption webpage="index" alt=""/>
@@ -122,10 +122,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="location" alt=""/>
-      <caption webpage="careers" alt=""/>
       <caption webpage="donuts" alt=""/>
       <caption webpage="contacts" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="careers" alt=""/>
     </file>
     <file name="002-youtube-logo.png" crc="3840472401" seo="true" ref="phone>donuts:phone>location:phone>contacts:phone>careers:index:phone>index:tablet>index">
       <caption webpage="index" alt=""/>
@@ -135,10 +135,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="location" alt=""/>
-      <caption webpage="careers" alt=""/>
       <caption webpage="donuts" alt=""/>
       <caption webpage="contacts" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="careers" alt=""/>
     </file>
     <file name="glass153x227.png" crc="89807394" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
@@ -647,5 +647,5 @@
     <file name="contacts.html" crc="535819827" seo="true" mt="1500707235792" redirect="true"/>
     <file name="careers.html" crc="4284567710" seo="true" mt="1500707235792" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3876029448" seo="true" mt="1501058935802" redirect="true"/>
+  <file name="index.html" crc="4230001854" seo="true" mt="1501074216292" redirect="true"/>
 </manifest>
