@@ -1,0 +1,490 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+<style type="text/css">
+.button {
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 20px;
+  padding: 7px;
+  width: 150px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+<!--
+body {
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	background-color: #FFFFFF;
+	margin: 0;
+	padding: 0;
+	color: #000;
+	background-image: url(bk%20form.jpg);
+	background-repeat: repeat-y;
+	margin-left: 20px;
+	margin-top: 30px;
+	margin-right: 30px;
+	margin-bottom: 30px;
+}
+
+/* ~~ Element/tag selectors ~~ */
+ul, ol, dl { /* Due to variations between browsers, it's best practices to zero padding and margin on lists. For consistency, you can either specify the amounts you want here, or on the list items (LI, DT, DD) they contain. Remember that what you do here will cascade to the .nav list unless you write a more specific selector. */
+	padding: 0;
+	margin: 0;
+}
+h1, h2, h3, h4, h5, h6, p {
+	margin-top: 0;	 /* removing the top margin gets around an issue where margins can escape from their containing div. The remaining bottom margin will hold it away from any elements that follow. */
+	padding-right: 15px;
+	padding-left: 15px; /* adding the padding to the sides of the elements within the divs, instead of the divs themselves, gets rid of any box model math. A nested div with side padding can also be used as an alternate method. */
+}
+a img { /* this selector removes the default blue border displayed in some browsers around an image when it is surrounded by a link */
+	border: none;
+}
+
+/* ~~ Styling for your site's links must remain in this order - including the group of selectors that create the hover effect. ~~ */
+a:link {
+	color:#414958;
+	text-decoration: underline; /* unless you style your links to look extremely unique, it's best to provide underlines for quick visual identification */
+}
+a:visited {
+	color: #4E5869;
+	text-decoration: underline;
+}
+a:hover, a:active, a:focus { /* this group of selectors will give a keyboard navigator the same hover experience as the person using a mouse. */
+	text-decoration: none;
+}
+
+/* ~~ this container surrounds all other divs giving them their percentage-based width ~~ */
+.container {
+	width: 80%;
+	max-width: 1260px;/* a max-width may be desirable to keep this layout from getting too wide on a large monitor. This keeps line length more readable. IE6 does not respect this declaration. */
+	min-width: 780px;/* a min-width may be desirable to keep this layout from getting too narrow. This keeps line length more readable in the side columns. IE6 does not respect this declaration. */
+	background-color: #FFF;
+	margin: 0 auto; /* the auto value on the sides, coupled with the width, centers the layout. It is not needed if you set the .container's width to 100%. */
+	overflow: hidden; /* this declaration makes the .container clear all floated columns within it. */
+}
+
+/* ~~ These are the columns for the layout. ~~ 
+
+1) Padding is only placed on the top and/or bottom of the divs. The elements within these divs have padding on their sides. This saves you from any "box model math". Keep in mind, if you add any side padding or border to the div itself, it will be added to the width you define to create the *total* width. You may also choose to remove the padding on the element in the div and place a second div within it with no width and the padding necessary for your design.
+
+2) No margin has been given to the columns since they are all floated. If you must add margin, avoid placing it on the side you're floating toward (for example: a right margin on a div set to float right). Many times, padding can be used instead. For divs where this rule must be broken, you should add a "display:inline" declaration to the div's rule to tame a bug where some versions of Internet Explorer double the margin.
+
+3) Since classes can be used multiple times in a document (and an element can also have multiple classes applied), the columns have been assigned class names instead of IDs. For example, two sidebar divs could be stacked if necessary. These can very easily be changed to IDs if that's your preference, as long as you'll only be using them once per document.
+
+4) If you prefer your nav on the right instead of the left, simply float these columns the opposite direction (all right instead of all left) and they'll render in reverse order. There's no need to move the divs around in the HTML source.
+
+*/
+.sidebar1 {
+	float: left;
+	width: 20%;
+	background-color: #93A5C4;
+	padding-bottom: 10px;
+}
+.content {
+	padding: 10px 0;
+	width: 80%;
+	float: left;
+	font-size: 80%;
+}
+
+/* ~~ This grouped selector gives the lists in the .content area space ~~ */
+.content ul, .content ol { 
+	padding: 0 15px 15px 40px; /* this padding mirrors the right padding in the headings and paragraph rule above. Padding was placed on the bottom for space between other elements on the lists and on the left to create the indention. These may be adjusted as you wish. */
+}
+
+/* ~~ The navigation list styles (can be removed if you choose to use a premade flyout menu like Spry) ~~ */
+ul.nav {
+	list-style: none; /* this removes the list marker */
+	border-top: 1px solid #666; /* this creates the top border for the links - all others are placed using a bottom border on the LI */
+	margin-bottom: 15px; /* this creates the space between the navigation on the content below */
+}
+ul.nav li {
+	border-bottom: 1px solid #666; /* this creates the button separation */
+}
+ul.nav a, ul.nav a:visited { /* grouping these selectors makes sure that your links retain their button look even after being visited */
+	padding: 5px 5px 5px 15px;
+	display: block; /* this gives the link block properties causing it to fill the whole LI containing it. This causes the entire area to react to a mouse click. */
+	text-decoration: none;
+	background-color: #8090AB;
+	color: #000;
+}
+ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* this changes the background and text color for both mouse and keyboard navigators */
+	background-color: #993366;
+	color: #C09;
+	font-size: 24%;
+}
+
+/* ~~miscellaneous float/clear classes~~ */
+.fltrt {  /* this class can be used to float an element right in your page. The floated element must precede the element it should be next to on the page. */
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { /* this class can be used to float an element left in your page. The floated element must precede the element it should be next to on the page. */
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat { /* this class can be placed on a <br /> or empty div as the final element following the last floated div (within the #container) if the overflow:hidden on the .container is removed */
+	clear:both;
+	height:0;
+	font-size: 1px;
+	line-height: 0px;
+}
+.container .content strong {
+	font-size: large;
+}
+.container .content table tr td strong {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 24px;
+	color: #333;
+	text-decoration: underline;
+}
+.container .content table {
+	font-size: 18px;
+	color: #F00;
+	font-style: normal;
+}
+.container .content table tr td p {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.container .content table tr td {
+}
+.container .content table tr .fltrt {
+	font-size: 16px;
+	color: #930;
+}
+.container .content table tr .fltrt table tr td div {
+	color: #00F;
+}
+.container .content table tr .fltrt table tr td table tr td {
+	color: #00F;
+}
+.container .content table tr .fltrt table tr .fltrt {
+	color: #990;
+}
+.container .content table tr .fltrt table {
+	font-size: 14px;
+}
+body,td,th {
+	font-size: 100%;
+	position: relative;
+	left: auto;
+	right: auto;
+}
+.fltrt {
+	color: #000;
+}
+-->
+</style><!--[if lte IE 7]>
+<style>
+.content { margin-right: -1px; } /* this 1px negative margin can be placed on any of the columns in this layout with the same corrective effect. */
+ul.nav a { zoom: 1; }  /* the zoom property gives IE the hasLayout trigger it needs to correct extra whiltespace between the links */
+</style>
+<![endif]--></head>
+
+<body bgcolor="#000000" leftmargin="30" topmargin="30" marginwidth="30" marginheight="30">
+
+       
+	
+		<div class="nav">
+  <div dir="rtl">
+    <ul class="nav">
+      <li>
+        <div align="center">
+ <a href="index.html"> <button class="button"><span>Home </span></button></a></div>
+          <table width="70%" border="0" align="center" cellpadding="3" cellspacing="0">
+            <tr>
+              <td width="50%" colspan="0" bgcolor="#FFFFFF" class="fltrt"><table width="50%" align="center"" cellpadding="3" cellspacing="0" dir="ltr"0>
+                <tr>
+                  <td colspan="2" align="center" valign="middle"><div align="center"><strong>Work with us </strong></div></td>
+                  </tr>
+                <tr>
+                  <td colspan="2"><div align="center">Gourmetdonuts </div></td>
+                  </tr>
+                <tr>
+                  <td colspan="2">&nbsp;</td>
+                  </tr>
+                <tr>
+                  <td colspan="2"><label for="PositionApplying"> </label>
+                    <div align="center"></div>
+                    <div align="center">
+                      <table width="80%" border="0" cellspacing="2" cellpadding="0">
+                        <tr>
+                          <td width="42%"><div align="center">Position Applying for </div></td>
+                          <td width="58%">&nbsp;</td>
+                          </tr>
+                        <tr>
+                          <td><div align="center">
+                            <input name="PositionApplying" type="text" id="PositionApplying" value="" size="30" maxlength="20">
+                            </div></td>
+                          <td><select name="Applyingfor" size="1" class="textfieldMaxCharsState" id="Applyingfor">
+                            <option value="10">Full time</option>
+                            <option value="0">Part time</option>
+                            </select></td>
+                          </tr>
+                        </table>
+                      </div>
+                    <div align="center"></div></td>
+                  </tr>
+                <tr>
+                  <td><div align="left">Date :</div></td>
+                  <td><div align="left">Social Security Number *</div></td>
+                  </tr>
+                <tr>
+                  <td width="364"><div align="left">
+                    <input name="DateofApplication" type="text" id="DateofApplication" size="40">
+                    </div></td>
+                  <td width="530"><div align="left">
+                    <input type="text" name="Social" id="Social">
+                    </div></td>
+                  </tr>
+                <tr>
+                  <td width="364"><label for="Name"> </label>
+                    <div align="left">Name : </div></td>
+                  <td width="530"><label for="last"> </label>
+                    <div align="left">Last : </div></td>
+                  </tr>
+                <tr>
+                  <td width="364"><div align="left">
+                    <input name="Name" type="text" id="Name" size="40">
+                    </div></td>
+                  <td width="530"><div align="left">
+                    <input name="last" type="text" id="last" size="40">
+                    </div></td>
+                  </tr>
+                <tr>
+                  <td width="364"><label for="Phone"> </label>
+                    <div align="left">phone </div></td>
+                  <td width="530"><div align="left">Postal / Zip Code </div></td>
+                  </tr>
+                <tr>
+                  <td width="364"><div align="left">
+                    <input type="text" name="Phone" id="Phone">
+                    </div></td>
+                  <td width="530"><div align="left">
+                    <input type="text" name="Postal" id="Postal">
+                    </div></td>
+                  </tr>
+                <tr>
+                  <td width="364"><label for="City"> </label>
+                    <div align="left">City </div></td>
+                  <td width="530"><label for="state"> </label>
+                    <div align="left">State / Province / Region </div></td>
+                  </tr>
+                <tr>
+                  <td><div align="left">
+                    <input type="text" name="City" id="City">
+                    </div></td>
+                  <td><div align="left">
+                    <input type="text" name="state" id="state">
+                    </div></td>
+                  </tr>
+                <tr>
+                  <td colspan="2"><div align="left">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td width="16%">Address :</td>
+                        <td width="84%"><input name="Address" type="text" id="Address" value="" size="75"></td>
+                        </tr>
+                    </table>
+                  </div></td>
+                  </tr>
+                <tr>
+                  <td colspan="2"><div align="left">
+                    <table width="100%" border="0" cellspacing="1" cellpadding="0">
+                      <tr>
+                        <td width="16%">Street :</td>
+                        <td width="84%"><input name="street" type="text" id="street" size="75"></td>
+                        </tr>
+                    </table>
+                  </div></td>
+                  </tr>
+                <tr>
+                  <td colspan="2"><div align="left"></div></td>
+                  </tr>
+                <tr>
+                  <td colspan="2"><form name="form1" method="post" action="">
+                    <label for="workedbefore">
+                      <div align="left">have you ever worked here before?
+                        <input type="checkbox" name="workedbefore" id="workedbefore">
+                      </div>
+                    </label>
+                    <div align="left"></div>
+                  </form></td>
+                  </tr>
+                <tr>
+                  <td colspan="2"><label for="firstemployment"> 
+                    <div align="left">If yes, which location? Date of first employment?                    </div>
+                  </label></td>
+                  </tr>
+                <tr>
+                  <td colspan="2"><div align="left">
+                    <input type="text" name="firstemployment" id="firstemployment">
+                  </div></td>
+                  </tr>
+                <tr>
+                  <td colspan="2"><p align="left">Only U.S. citizen or aliens who have a legal right to work in the U.S. are eligible for employment. </p>
+                    <p align="left">Can you, after employment, submit verification of your legal right to work in the United States?                     </p></td>
+                  </tr>
+                <tr>
+                  <td colspan="2"><table width="101" align="left">
+                    <tr>
+                      <td width="93">yes
+                        <input type="radio" name="Have you ever worked here before? *" value="yes" id="Haveyoueverworkedherebefore_2"></td>
+                      </tr>
+                    <tr>
+                      <td><label> </label></td>
+                      </tr>
+                    </table>
+                    <div align="right"></div></td>
+                  </tr>
+                <tr>
+                  <td colspan="2" style="font-size: 14px; color: #F00;"><div align="left">*An applicant for employment in MA with a sealed criminal record on file with the commissioner of probation may answer "no record" with respect to any inquiry herein relative to prior arrests, criminal court appearances, or convictions. An applicant for employment may answer "no record" with respect to any inquiry relative to prior ar rests, court appearances and adjudications in all cases of delinquency or as a child in need of services to which did not result in a complaint transferred to the superior court for criminal prosecution.</div></td>
+                  </tr>
+                <tr>
+                  <td colspan="2"><form name="form3" method="post" action="">
+                    <div align="left">Have you been convicted of a misdemeanor within the past five years? *
+                      <input type="checkbox" name="convicted" id="convicted">
+                    </div>
+                  </form>
+                    <form name="form2" method="post" action="">
+                      <div align="left">If YES, explain
+  <input name="explain" type="text" id="explain" size="50">
+                      </div>
+                    </form></td>
+                  </tr>
+                <tr>
+                  <td><div align="left"></div></td>
+                  <td><div align="left"></div></td>
+                  </tr>
+                <tr>
+                  <td nowrap><form name="form17" method="post" action="">
+                    <label for="felony">
+                      <div align="left">Have you ever been convicted of a felony? 
+                      </div>
+                    </label>
+                    </form></td>
+                  <td><div align="left">
+                    <input name="felony" type="text" id="felony" size="50">                  
+                  </div></td>
+                  </tr>
+                <tr>
+                  <td><div align="left"></div></td>
+                  <td><div align="left"></div></td>
+                  </tr>
+                <tr>
+                  <td><label for="reference">
+                    <div align="left">How were you referred to Gourmet Donuts?</div>
+                  </label></td>
+                  <td><div align="left">
+                    <input name="reference" type="text" id="reference" size="50">
+                  </div></td>
+                  </tr>
+                <tr>
+                  <td><div align="left"></div></td>
+                  <td><div align="left"></div></td>
+                  </tr>
+                <tr>
+                  <td><div align="left">On what date would you be available to work?</div></td>
+                  <td><div align="left">
+                    <input name="dateavailable" type="text" id="dateavailable" size="50">
+                  </div></td>
+                  </tr>
+                <tr>
+                  <td><label for="restrictions">
+                    <div align="left">With regard to work location, do you have any preferences or restrictions?<br>
+                      If yes, please explain:</div>
+                  </label></td>
+                  <td><div align="left">
+                    <input name="restrictions" type="text" id="restrictions" value="" size="50">
+                  </div></td>
+                  </tr>
+                <tr>
+                  <td colspan="2"><label for="recall">
+                    <div align="left">Are you on layoff and subject to recall? *</div>
+                  </label>
+                    <div align="left">
+                      <input type="checkbox" name="recall" id="recall">
+                    </div></td>
+                  </tr>
+                <tr>
+                  <td><label for="wage">
+                    <div align="left">Wage/Salary Expected: *</div>
+                  </label></td>
+                  <td><div align="left">
+                    <input name="wage" type="text" id="wage" size="50">
+                  </div></td>
+                </tr>
+                <tr>
+                  <td colspan="2"><label for="driver">
+                    <div align="left">Do you have or can you get a valid driver's license </div>
+                  </label>
+                    <div align="left"><span id="spryconfirm1"><span class="confirmInvalidMsg">
+                      <input type="checkbox" name="driver" id="driver">
+                    </span></span></div></td>
+                  </tr>
+                <tr>
+                  <td colspan="2"><div align="left"></div></td>
+                  </tr>
+                <tr>
+                  <td colspan="2"><label for="special">
+                    <div align="left">Special Skills and Qualifications</div>
+                  </label></td>
+                  </tr>
+                <tr>
+                  <td colspan="2"><div align="left">
+                    <textarea name="special" cols="90" rows="4" id="special"></textarea>
+                  </div></td>
+                  </tr>
+                <tr>
+                  <td><div align="left">
+                    <input type="submit" name="submit" id="submit" value="Submit">
+                  </div></td>
+                  <td><div align="left"></div></td>
+                  </tr>
+                <tr>
+                  <td width="364">&nbsp;</td>
+                  <td width="530">&nbsp;</td>
+                  </tr>
+              </table></td>
+            </tr>
+          </table>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li><!-- end .sidebar1 --></li>
+    </ul>
+  </div>
+<!-- end .container --></div>
+</body>
+</html>
